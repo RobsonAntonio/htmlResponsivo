@@ -114,7 +114,7 @@ body {
 }
 
 .img {
-  min-height: 200px;
+  min-height: 230px;
   max-height: 230px;
   width: 100%;
   border-radius: 8px;
@@ -188,7 +188,7 @@ body {
   }
 
   .img {
-    height: 200px
+    height: 230px
   }
 
   .img-courses-container {
@@ -204,8 +204,9 @@ body {
   .start p {
     font-size: 0.9rem;
   }
+
   .img {
-    height: 200px
+    height: 230px
   }
 
   .img-courses-container {
